@@ -1,0 +1,25 @@
+RoundNumber,Location,Length,Traction,Abrasion,TrackEvolution,TyreStress,Lateral,Downforce,C_HARD,C_MEDIUM,C_SOFT
+1,Melbourne,5278,2,2,3,3,3,3,3,4,5
+2,Shanghai,5451,3,3,5,4,4,3,2,3,4
+3,Suzuka,5807,3,4,3,5,5,4,1,2,3
+4,Sakhir,5412,4,5,4,3,3,3,1,2,3
+5,Jeddah,6174,2,2,4,3,4,2,3,4,5
+6,Miami Gardens,5412,3,2,5,3,3,3,3,4,5
+7,Imola,4909,2,2,2,3,3,3,4,5,6
+8,Monaco,3337,5,1,5,1,1,5,4,5,6
+9,Barcelona,4657,3,4,3,5,5,4,1,2,3
+10,Montreal,4361,4,1,5,3,1,1,4,5,6
+11,Spielberg,4318,2,3,3,3,3,3,3,4,5
+12,Silverstone,5891,3,2,2,5,5,4,2,3,4
+13,Spa-Francorchamps,7004,4,3,3,5,5,2,1,3,4
+14,Budapest,4381,4,3,4,3,3,5,3,4,5
+15,Zandvoort,4259,3,3,4,5,4,4,2,3,4
+16,Monza,5793,3,2,4,3,2,1,3,4,5
+17,Baku,6003,5,1,5,3,1,2,4,5,6
+18,Marina Bay,4940,4,3,5,2,2,5,3,4,5
+19,Austin,5513,4,3,4,4,4,4,1,3,4
+20,Mexico City,4304,3,2,5,2,2,5,2,4,5
+21,S?o Paulo,4309,3,2,5,3,3,4,2,3,4
+22,Las Vegas,6201,2,2,5,4,2,1,3,4,5
+23,Lusail,5419,3,2,4,5,5,4,1,2,3
+24,Yas Island,5281,4,3,4,3,3,3,3,4,5
